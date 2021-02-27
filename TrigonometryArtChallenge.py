@@ -1,4 +1,4 @@
-#Geometric Design made from Trig Functions
+#Random Geometric Design made from Trig Functions
 #October 2020
 #Pranjal Nayak
 
